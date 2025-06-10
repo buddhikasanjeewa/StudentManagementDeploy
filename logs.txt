@@ -1,0 +1,17 @@
+[6/1/2025 2:01:12 PM] Student Details: Uid=00000000-0000-0000-0000-000000000000, Name= , Email=, Mobile=
+[6/1/2025 2:08:51 PM] Student Details:  Name=Nuwan Perera, Email=buddhisanje@gmail.com, Mobile=07744223333
+[6/1/2025 2:36:38 PM] Student Details:  Name=Buddhikaa Sanjeewa, Email=buddhisanje@gmail.com, Mobile=0715153061,Address=190/A
+Olaboduwa
+Gonapola Junction,Nic=881804063v,Dateofbirth=6/29/1980
+[6/1/2025 2:37:56 PM] Student Details:  Name=Nalin Perera, Email=nalinsenvi@gmail.com, Mobile=734433333,Address=Digana,Nic=8664444442,Dateofbirth=4/22/1984
+[6/1/2025 2:37:56 PM] Student Details:  Name=Nalin Perera, Email=nalinsenvi@gmail.com, Mobile=734433333,Address=Digana,Nic=8664444442,Dateofbirth=4/22/1984
+[6/1/2025 2:40:50 PM] Student Details:  Name=Samadi Perera, Email=samadiperera@gmail.com, Mobile=07733444444,Address=,Nic=,Dateofbirth=6/1/2025
+[6/1/2025 2:41:34 PM] Student Details:  Name=Samadi Perera, Email=samadiperera@gmail.com, Mobile=07733444444,Address=456,Honnatara
+Piliyandala,Nic=8744555555,Dateofbirth=6/23/1987
+[6/1/2025 2:59:14 PM] Student Details:  Name=Nadee Perera, Email=nadeeperer32@gmail.com, Mobile=07833444444,Address=,Nic=932222222b,Dateofbirth=6/26/2025
+[6/5/2025 5:29:29 PM] Student Details:  Name=Mewan Perera, Email=buddhikasanje@gmail.com, Mobile=0715153061,Address=190,Olaboduwa Gonapola Junction,Nic=801804063v,Dateofbirth=6/5/2025
+[6/6/2025 2:47:08 PM] Student Details:  Name=Nadee Perera, Email=nadeeperer32@gmail.com, Mobile=07833444444,Address=,Nic=932222222b,Dateofbirth=6/26/2025
+[6/6/2025 8:31:13 PM] Student Details:  Name=Pasan Disanake, Email=pasandisanayake3333@gmail.com, Mobile=07733333333,Address=,Nic=,Dateofbirth=6/19/1997
+[6/6/2025 8:43:53 PM] Student Details:  Name=Lochana Manikkage, Email=locahanmainkkage3333@gmail.com, Mobile=0714444444,Address=,Nic=,Dateofbirth=6/26/1993
+[6/9/2025 5:28:42 PM] Student Details:  Name=Shan Perera, Email=shanperera@gmail.com, Mobile=07444444444,Address=,Nic=801834444444,Dateofbirth=6/9/2025
+[6/10/2025 8:33:16 PM] Student Details:  Name=Tekla Kumari, Email=teklae3445555@gmail.com, Mobile=077444433,Address=string,Nic=string,Dateofbirth=6/10/2025

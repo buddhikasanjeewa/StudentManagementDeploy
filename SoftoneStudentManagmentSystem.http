@@ -1,0 +1,6 @@
+@SoftoneStudentManagmentSystem_HostAddress = http://localhost:5269
+
+GET {{SoftoneStudentManagmentSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
